@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Actividad2_BD_API.props" />
+</Project>
